@@ -29,8 +29,21 @@ Este proyecto busca implementar una aplicación web que apoye el trabajo de carp
 - Visualización de ramas y contribuciones en GitHub.
 
 Objetivos
-- Aplicar conocimientos de **it y GitHub** en un entorno colaborativo.
+- Aplicar conocimientos de it y GitHub en un entorno colaborativo.
 - Diseñar una interfaz web intuitiva para estudiantes y docentes.
 - Fomentar el trabajo en equipo y la documentación técnica.
 - Integrar funcionalidades como galería de proyectos, registro de avances y tablero de tareas.
 
+ Metodología de Trabajo
+Para el desarrollo del proyecto se utilizará una metodología de trabajo colaborativo. Cada integrante del equipo podrá realizar cambios en el repositorio utilizando Git y GitHub, permitiendo llevar un control de versiones del proyecto.
+
+El desarrollo se realizará en varias etapas:
+
+- Planificación: Definir las necesidades del proyecto y las funcionalidades principales.
+- Diseño: Crear la estructura de la aplicación web y el diseño de la interfaz.
+- Desarrollo: Programar las funcionalidades del sistema.
+- Pruebas: Verificar que el sistema funcione correctamente.
+- Implementación: Publicar la aplicación y permitir su uso por parte de los usuarios.
+
+ Resultados Esperados
+Con el desarrollo de este proyecto se espera crear una aplicación web que facilite la organización y gestión de proyectos de carpintería y arte. Además, los estudiantes podrán fortalecer sus habilidades en programación, trabajo en equipo y uso de herramientas de control de versiones como Git y GitHub.
