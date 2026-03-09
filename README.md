@@ -15,3 +15,22 @@ Este proyecto busca implementar una aplicación web que apoye el trabajo de carp
 - Crear la estructura inicial del proyecto.
 - Definir las funcionalidades principales de la aplicación web.
 - Realizar commits y pull requests para integrar los cambios en la rama principal.
+
+ Público objetivo
+- Estudiantes de áreas técnicas y artísticas.
+- Docentes que guían proyectos prácticos.
+- Instituciones educativas que promueven el aprendizaje basado en proyectos.
+
+ Funcionalidades esperadas
+- Registro de usuarios y roles (estudiante/docente).
+- Subida de imágenes de proyectos.
+- Panel de tareas por equipo.
+- Historial de cambios y avances.
+- Visualización de ramas y contribuciones en GitHub.
+
+Objetivos
+- Aplicar conocimientos de **it y GitHub** en un entorno colaborativo.
+- Diseñar una interfaz web intuitiva para estudiantes y docentes.
+- Fomentar el trabajo en equipo y la documentación técnica.
+- Integrar funcionalidades como galería de proyectos, registro de avances y tablero de tareas.
+
